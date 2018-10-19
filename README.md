@@ -67,3 +67,4 @@ Create separate methods to print the workshop details (date and classroom), a me
 
 
 > Hint: look into defining private class methods.
+# Codebar
